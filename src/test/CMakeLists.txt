@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(bcr2_coverage_supporting_funcs)
+project(test)
 
 # Default to C99
 if(NOT CMAKE_C_STANDARD)
